@@ -1,5 +1,7 @@
 **A three-tier architecture-diagram**
 
+[arch design](https://github.com/jaeger231/Architecture-diagrams/blob/35b9e55ba14e45670c577f67293e94f61a9e4639/my%201.PNG)
+
 The architecture for this e-commerce platform is designed to meet the requirements for high availability, low latency, security, fault tolerance, and cost efficiency, while also ensuring the protection of data both at rest and in transit. This setup is divided into three primary tiers—Web Tier, Application Tier, and Data Tier
 
 **Web Tier**
